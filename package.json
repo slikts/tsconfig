@@ -1,0 +1,24 @@
+{
+  "name": "@slikts/tsconfig",
+  "version": "1.0.0",
+  "description": "Base TS config",
+  "scripts": {
+    "test": "./node_modules/.bin/tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/slikts/tsconfig.git"
+  },
+  "author": "slikts <dabas@untu.ms>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slikts/tsconfig/issues"
+  },
+  "homepage": "https://github.com/slikts/tsconfig#readme",
+  "peerDependencies": {
+    "typescript": "^2.7.0-rc"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.0-rc"
+  }
+}

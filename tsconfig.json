@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noEmitOnError": true,
+    "inlineSourceMap": true,
+    "target": "es2015",
+    "declaration": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "declarationDir": "dist/types",
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "strictPropertyInitialization": true
+  },
+  "exclude": [
+    "dist",
+    "test",
+    "node_modules"
+  ]
+}
