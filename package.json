@@ -16,9 +16,9 @@
   },
   "homepage": "https://github.com/slikts/tsconfig#readme",
   "peerDependencies": {
-    "typescript": "^2.7.0-rc"
+    "typescript": "^2.7.2"
   },
   "devDependencies": {
-    "typescript": "^2.7.0-rc"
+    "typescript": "^2.7.2"
   }
 }
