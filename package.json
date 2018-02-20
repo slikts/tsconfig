@@ -1,6 +1,6 @@
 {
   "name": "@slikts/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base TS config",
   "scripts": {
     "test": "./node_modules/.bin/tsc --noEmit"
